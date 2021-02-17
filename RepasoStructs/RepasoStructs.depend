@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610482541 source:c:\users\admin\desktop\matias\facu\c++\repasostructs\main.cpp
+	<iostream>
+	<conio.h>
+
