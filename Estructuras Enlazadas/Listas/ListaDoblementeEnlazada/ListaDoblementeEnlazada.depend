@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613863845 source:c:\users\ray\desktop\programming\ayed\2021\estructuras enlazadas\listas\listadoblementeenlazada\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612910798 source:c:\users\ray\desktop\programming\ayed\2021\archivos\introarchivos\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
