@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613516485 source:c:\users\ray\desktop\programming\ayed\2021\estructuras enlazadas\listas\practicalistascompletas\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614026185 source:c:\users\ray\desktop\programming\ayed\2021\guia de ejercicios\ejercicio_102\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
