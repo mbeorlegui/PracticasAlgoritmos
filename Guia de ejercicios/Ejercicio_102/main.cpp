@@ -104,8 +104,6 @@ Dado un archivo de registros de alumnos ARCHA sin ningun orden, donde cada regis
 -   Se debe desarrollar el algoritmo y codificacion del programa que genere un archivo ARCHL
     igual al anterior pero ordenado por numero de legajo.
 
-**/
-
 Se tiene un archivo de ventas anuales de los empleados de una empresa multinacional Ventas.dat (sin Orden), 
 con el siguiente registro:
 
@@ -117,4 +115,4 @@ Se pide:
 Armar y mostrar una lista ordenada por Ventas Anuales sólo para el caso que el 
 empleado pertenece al sector de consultoría.
 
-
+**/
